@@ -1,10 +1,8 @@
 # Admin Dashboard
 
-This is a web-based admin dashboard for managing orders and customer information. The dashboard includes the following features:
+### Live URL : [Admin Dashboard](https://admin-dashboard-mukundjajadiya.vercel.app)
 
-## Live URL
-
-[Admin Dashboard](https://admin-dashboard-mukundjajadiya.vercel.app)
+## This is a web-based admin dashboard for managing orders and customer information. The dashboard includes the following features:
 
 ## Orders Page
 
